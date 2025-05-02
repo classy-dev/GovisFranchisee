@@ -35,7 +35,6 @@ GOVIS Franchisee는 GOPIZZA 가맹점주를 위한 통합 관리 플랫폼입니
 
 ### 차트 및 시각화
 - **Recharts** - 데이터 시각화 라이브러리
-- **Toast UI Calendar** - 캘린더 컴포넌트
 
 ### 유틸리티
 - **Axios** - HTTP 클라이언트
