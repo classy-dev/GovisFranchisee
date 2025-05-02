@@ -20,7 +20,7 @@ GOVIS Franchisee는 GOPIZZA 가맹점주를 위한 통합 관리 플랫폼입니
 
 ## GOVIS Franchisee 포트폴리오 영상
 
-[포트폴리오 살펴 보기](https://www.youtube.com/kpD2ySE8nUo)
+[포트폴리오 살펴 보기](https://www.youtube.com/watch?v=kpD2ySE8nUo)
 
 
 ## 기술 스택
